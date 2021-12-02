@@ -27,13 +27,5 @@ class MainActivity : AppCompatActivity() {
             display.text = "Yellow was clicked"
         }
 
-
-
-
-
-
-
-
-
     }
 }
